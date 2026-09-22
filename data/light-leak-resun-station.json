@@ -1,0 +1,16 @@
+{
+  "batches": [
+    {
+      "code": "MASK-A",
+      "active": true,
+      "note": "主用遮挡黑卡"
+    },
+    {
+      "code": "MASK-B",
+      "active": false,
+      "note": "卡面透光，已停用"
+    }
+  ],
+  "tickets": [],
+  "ticketSeq": 1
+}
